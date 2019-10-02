@@ -52,7 +52,7 @@ const HomePage: React.FC = () => {
           </IonListHeader>
           <IonItem href="https://ionicframework.com/docs/" target="_blank">
             <IonIcon slot="start" color="medium" icon={book} />
-            <IonLabel>Ionic Documentation</IonLabel>
+            <IonLabel>Documentação Ionic</IonLabel>
           </IonItem>
           <IonItem href="https://ionicframework.com/docs/building/scaffolding" target="_blank">
             <IonIcon slot="start" color="medium" icon={build} />
