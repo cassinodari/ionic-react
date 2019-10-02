@@ -44,6 +44,11 @@ const appPages: AppPage[] = [
     url: '/home/sinchronization',
     icon: list
   },
+  {
+    title: 'Logout',
+    url: '/home/logout',
+    icon: home
+  },
 ];
 
 const App: React.FC = () => (
