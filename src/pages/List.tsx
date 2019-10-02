@@ -41,7 +41,7 @@ const ListItems = () => {
         <IonIcon icon={icons[x - 1]} slot="start" />
         Item {x}
         <div className="item-note" slot="end">
-          This is item # {x}
+          Isto é um item # {x}
         </div>
       </IonItem>
     );

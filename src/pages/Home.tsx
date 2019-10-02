@@ -37,12 +37,11 @@ const HomePage: React.FC = () => {
           <img src="/assets/shapes.svg" alt=""/>
           <IonCardHeader>
             <IonCardSubtitle>Get Started</IonCardSubtitle>
-            <IonCardTitle>Welcome to Ionic</IonCardTitle>
+            <IonCardTitle>Bem Vindos</IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
             <p>
-              Now that your app has been created, you'll want to start building out features and
-              components. Check out some of the resources below for next steps.
+              Teste
             </p>
           </IonCardContent>
         </IonCard>
