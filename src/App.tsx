@@ -38,7 +38,12 @@ const appPages: AppPage[] = [
     title: 'List',
     url: '/home/list',
     icon: list
-  }
+  },
+  {
+    title: 'Sinchronization',
+    url: '/home/sinchronization',
+    icon: list
+  },
 ];
 
 const App: React.FC = () => (
